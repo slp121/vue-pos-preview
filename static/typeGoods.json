@@ -1,0 +1,70 @@
+[
+    [
+      {
+        "goodsId": 1,
+        "goodsImg": "https://img.4008823823.com.cn/kfcios/Version/542_441323.jpg",
+        "goodsName": "香辣鸡腿堡",
+        "price": 18
+      },
+      {
+        "goodsId": 2,
+        "goodsImg": "https://img.4008823823.com.cn/kfcios/Version/537_428748.jpg",
+        "goodsName": "田园鸡腿堡",
+        "price": 15
+      },
+      {
+        "goodsId": 3,
+        "goodsImg": "https://img.4008823823.com.cn/kfcios/Version/542_441325.jpg",
+        "goodsName": "和风汉堡",
+        "price": 15
+      }
+    ],
+    [
+      {
+        "goodsId": 4,
+        "goodsImg": "https://img.4008823823.com.cn/kfcios/Version/458_294145.jpg",
+        "goodsName": "大包薯条",
+        "price": 18
+      },
+      {
+        "goodsId": 5,
+        "goodsImg": "https://img.4008823823.com.cn/kfcios/Version/399_232632.jpg",
+        "goodsName": "脆皮炸鸡腿",
+        "price": 20
+      },
+      {
+        "goodsId": 6,
+        "goodsImg":"https://img.4008823823.com.cn/kfcios/Version/522_401486.jpg",
+        "goodsName": "魔法鸡块",
+        "price": 20
+      }
+    ],
+    [
+      {
+        "goodsId": 7,
+        "goodsImg": "https://img.4008823823.com.cn/kfcios/Version/237_92971.jpg",
+        "goodsName": "百事可乐",
+        "price": 10
+      },
+      {
+        "goodsId": 8,
+        "goodsImg": "https://img.4008823823.com.cn/kfcios/Version/542_439268.jpg",
+        "goodsName": "雪顶咖啡",
+        "price": 18
+      }
+    ],
+    [
+      {
+        "goodsId": 9,
+        "goodsImg": "https://img.4008823823.com.cn/kfcios/Version/427_257163.jpg",
+        "goodsName": "儿童欢乐套餐",
+        "price": 25
+      },
+      {
+        "goodsId": 10,
+        "goodsImg": "https://img.4008823823.com.cn/kfcios/Version/511_378745.jpg",
+        "goodsName": "快乐全家桶",
+        "price": 99
+      }
+    ]
+  ]
